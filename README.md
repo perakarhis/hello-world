@@ -1,3 +1,4 @@
 # hello-world
-Learning git
+
 perakarhis here. I study informatin processing science.
+I'm learning git.
